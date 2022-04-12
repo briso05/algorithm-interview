@@ -6,6 +6,8 @@
     - [리트코드 변경 사항 및 보다 효율적인 풀이](#리트코드-변경-사항-및-보다-효율적인-풀이)
 
 <!-- /TOC -->
+#### 유튜브 학습동영상
+- [Chris AI Holic 유튜브](https://bit.ly/algorithm-interview-youtube)
 
 # 파이썬 알고리즘 인터뷰
 
